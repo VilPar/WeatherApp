@@ -24,3 +24,8 @@ For the virtual device:
 for testing the app on your own phone:
 
 Read [this page](https://developer.android.com/studio/run/device) -for detailed instructions.
+
+## Important
+* since the virtual device has no set location, it will default to openWeather API:s default location which is the Mountain View, US also shown in the preview image. That is the only difference when running it on a virtual device.
+
+* The "find" button isn't currently working.
